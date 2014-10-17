@@ -1,0 +1,6 @@
+
+Modifications to Greenies and Blueies:
+
+The main thrust of this change was to add carnivores, or Redies. They behave very similarily to blueies but eat blueies instead of greenies, and can survive for much longer (or grow much bigger) without food. 
+
+Of secondary interest was the addition of a logging system to record the population of Green, Blue, and Red.
